@@ -1,0 +1,21 @@
+{
+  "name": "vs-peachblack",
+  "displayName": "vs-peachblack",
+  "description": "The VSCode Peach-Black theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PeachBlack",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PeachBlack-color-theme.json"
+      }
+    ]
+  }
+}

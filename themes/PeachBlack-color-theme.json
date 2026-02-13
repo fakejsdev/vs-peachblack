@@ -26,7 +26,7 @@
     "widget.shadow": "#10121380",
     "scrollbar.shadow": "#10121380",
     "editorLink.activeForeground": "#BFBFBF",
-    "selection.background": "#FDBA74",
+    "selection.background": "#FDBA7455",
     "progressBar.background": "#FDBA74",
     "debugToolBar.background": "#0A0A0A",
     "pickerGroup.foreground": "#FDBA74",

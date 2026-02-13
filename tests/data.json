@@ -1,0 +1,25 @@
+{
+  "project": "VS PeachBlack",
+  "version": 1.0,
+  "settings": {
+    "theme": "dark",
+    "editor": {
+      "fontFamily": "Cascadia Code",
+      "fontSize": 15,
+      "minimap": {
+        "enabled": false,
+        "side": "right"
+      }
+    },
+    "users": [
+      {
+        "id": 1,
+        "name": "Admin",
+        "roles": {
+          "primary": "dev",
+          "secondary": "ops"
+        }
+      }
+    ]
+  }
+}
